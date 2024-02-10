@@ -1,1 +1,8 @@
-/* This is my css code*/
+.left-column{
+    float: left;
+    background-color: blueviolet;
+    color: white;
+    text-shadow: 10%;
+    outline-color: black;
+}
+
